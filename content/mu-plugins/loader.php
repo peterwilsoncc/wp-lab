@@ -5,7 +5,7 @@ if ( defined( 'WP_INSTALLING' ) && WP_INSTALLING ) {
 
 $plugins = array(
 	'wp-api/plugin.php',
-	'patternlab-wp-core/patternlab-wp.php',
+	'patternlab-wp/patternlab-wp.php',
 );
 
 foreach ( $plugins as $plugin ) {
