@@ -10,3 +10,6 @@
 [submodule "content/mu-plugins/patternlab-wp-core"]
 	path = content/mu-plugins/patternlab-wp-core
 	url = git@github.com:peterwilsoncc/patternlab-wp-core.git
+[submodule "content/mu-plugins/wp-api"]
+	path = content/mu-plugins/wp-api
+	url = git@github.com:WP-API/WP-API.git
