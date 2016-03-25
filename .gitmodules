@@ -1,3 +1,12 @@
 [submodule "wp"]
 	path = wp
 	url = git://core.git.wordpress.org/
+[submodule "content/themes/patternlab-wp-theme.git"]
+	path = content/themes/patternlab-wp-theme.git
+	url = git@github.com:peterwilsoncc/patternlab-wp-theme.git
+[submodule "content/mu-plugins/patternengine-wp"]
+	path = content/mu-plugins/patternengine-wp
+	url = git@github.com:peterwilsoncc/patternengine-wp.git
+[submodule "content/mu-plugins/patternlab-wp-core"]
+	path = content/mu-plugins/patternlab-wp-core
+	url = git@github.com:peterwilsoncc/patternlab-wp-core.git
