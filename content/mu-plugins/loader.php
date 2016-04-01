@@ -5,6 +5,7 @@ if ( defined( 'WP_INSTALLING' ) && WP_INSTALLING ) {
 
 $plugins = array(
 	'wp-api/plugin.php',
+	'rapid-mustache/rapid-mustache.php',
 	'patternlab-wp/patternlab-wp.php',
 );
 
