@@ -10,3 +10,6 @@
 [submodule "content/mu-plugins/patternlab-wp"]
 	path = content/mu-plugins/patternlab-wp
 	url = git@github.com:peterwilsoncc/patternlab-wp.git
+[submodule "content/mu-plugins/rapid-mustache"]
+	path = content/mu-plugins/rapid-mustache
+	url = git@github.com:peterwilsoncc/rapid-mustache.git
